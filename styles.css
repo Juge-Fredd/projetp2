@@ -1,0 +1,72 @@
+.menu
+{
+    float: right;
+    
+}
+ 
+.filtres 
+{
+    border: 5px #0065FC;
+    border-radius: 5px 15px 15px 5px;
+}
+
+
+button
+{
+    border: 1px black solid;
+    border-radius: 0px 5px 5px 0px;
+    background-color: #0065FC;
+    color: white;
+}
+
+.section1
+{
+    display: flex;
+    justify-content: space-between;
+    border: 0px solid;
+    background-color: #f2f2f2;
+    border-radius: 15px 15px 15px 15px;
+    width: 700px;
+    padding: 12px;
+    
+}
+
+.section2
+{
+    
+    border: 1px black;
+    background-color: white;
+    border-radius: 15px 15px 15px 15px;
+    padding: 10px;
+    
+       
+}
+
+i
+{
+    border: 1px #0065FC solid;
+    background-color: #deebff;
+    border-radius: 15px 15px 15px 15px;
+   
+}
+
+#hebergement
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+img
+{
+    border-radius: 15px 15px 15px 15px;
+    padding: 5px;
+}
+
+footer
+{
+    border: 0px solid;
+    background-color: #f2f2f2;
+}
